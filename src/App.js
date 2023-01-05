@@ -49,8 +49,8 @@ const toogletheme= () =>{
     
       <div class="container-fluid">
         
-      <p class="nav-itam" id="home"><Link to="/" ></Link></p>
-            <p class="nav-itam" id="home"><Link to="/home" ></Link><AiTwotoneHome/>&nbsp;Home</p>
+      {/* <p class="nav-itam" id="home"><Link to="/" ></Link></p> */}
+            <p class="nav-itam" id="home"><Link to="/My-RealTime-Website/" ></Link><AiTwotoneHome/>&nbsp;Home</p>
           <p class="nav-item" ><Link to="/About-Us"><BiPaperPlane/>&nbsp;About-us</Link></p>
           <h1 id="head"><AiFillGitlab id="icon"/>Codenatives-Karur<AiFillGitlab id="icon"/></h1>
           <p class="nav-itam" ><Link to="/Our-Teams" ><RiTeamFill/>&nbsp; Our-Teams</Link></p>
@@ -68,8 +68,8 @@ const toogletheme= () =>{
 
            
       <Routes>
-      <Route path="/" element={<Form/>} />
-        <Route path="/home" element={<Form/>} />
+      {/* <Route path="/" element={<Form/>} /> */}
+        <Route path="/My-RealTime-Website/" element={<Form/>} />
         <Route path="/About-Us" element={<Education/>} />
         <Route path="/Our-Teams" element={<Save/>} />
         <Route path="/Contact-Us" element={<Contact/>} />
