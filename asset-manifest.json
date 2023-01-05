@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-RealTime-Website/static/css/main.e332ea7b.css",
-    "main.js": "/My-RealTime-Website/static/js/main.dcb562d0.js",
+    "main.css": "/My-RealTime-Website/static/css/main.ab07ca2a.css",
+    "main.js": "/My-RealTime-Website/static/js/main.2b7b68c6.js",
     "static/js/787.d1d4a2c2.chunk.js": "/My-RealTime-Website/static/js/787.d1d4a2c2.chunk.js",
     "static/media/madhan.jpeg": "/My-RealTime-Website/static/media/madhan.5e24e8ba5cd90490df69.jpeg",
     "static/media/phy.png": "/My-RealTime-Website/static/media/phy.6cc43ce6c53067ffcad6.png",
@@ -26,12 +26,12 @@
     "static/media/native4.png": "/My-RealTime-Website/static/media/native4.c0e8ca45355fd1d3795b.png",
     "static/media/images.jpg": "/My-RealTime-Website/static/media/images.eedaa10e7d37ad971557.jpg",
     "index.html": "/My-RealTime-Website/index.html",
-    "main.e332ea7b.css.map": "/My-RealTime-Website/static/css/main.e332ea7b.css.map",
-    "main.dcb562d0.js.map": "/My-RealTime-Website/static/js/main.dcb562d0.js.map",
+    "main.ab07ca2a.css.map": "/My-RealTime-Website/static/css/main.ab07ca2a.css.map",
+    "main.2b7b68c6.js.map": "/My-RealTime-Website/static/js/main.2b7b68c6.js.map",
     "787.d1d4a2c2.chunk.js.map": "/My-RealTime-Website/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e332ea7b.css",
-    "static/js/main.dcb562d0.js"
+    "static/css/main.ab07ca2a.css",
+    "static/js/main.2b7b68c6.js"
   ]
 }
